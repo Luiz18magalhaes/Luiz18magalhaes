@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <div align="center">
-  <img width="47.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandr4de&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/mariandr4de">
+  <img width="48.3%" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img width="40.7%" src="https://user-images.githubusercontent.com/104591781/187047493-10403500-d148-4a38-8cd4-6c1e40db1452.svg"/>
 </div>
 
 <!--
