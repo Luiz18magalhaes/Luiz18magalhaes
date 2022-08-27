@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/mariandr4de">
-  <img width="48.3%" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=mariandr4de&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <!--<img width="47.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariandr4de&layout=compact&langs_count=7&theme=dracula"/> -->
-  <img width="47.7%" heigth="180em" src="https://user-images.githubusercontent.com/111194226/187031847-3e79e78e-be7d-4063-aa58-1015acd2a459.svg"/>
+  <img heigth="180em" src="https://user-images.githubusercontent.com/111194226/187031847-3e79e78e-be7d-4063-aa58-1015acd2a459.svg"/>
 </div>
 
 <!--
